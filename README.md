@@ -21,8 +21,7 @@ Hwanik Alexander Yoo (Front-end Developer)
 - Recharts (Chart Visualization)
 
 ### Deployment (배포 환경)
-- Ubuntu
-- nginx
+- Ubuntu, nginx - Migrated to -> vercel (FE Hosting)
 
 ## Image Examples: Web Env (시연: 웹 환경)
 
